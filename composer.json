@@ -1,6 +1,6 @@
 {
     "name": "rbtecnet/phpboleto",
-    "description": "Pacote de Geração de Boleto Bancário",
+    "description": "Pacote de Geração de Boleto Bancário em php",
     "type": "library",
     "license": "MIT",
     "autoload": {

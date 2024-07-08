@@ -16,8 +16,6 @@
     "require": {
         "larapack/dd": "^1.1",
         "fpdf/fpdf": "^1.86",
-        "neitanod/forceutf8": "*",
-        "illuminate/http": "^11.13",
-        "illuminate/support": "^11.13"
+        "neitanod/forceutf8": "*"
     }
 }

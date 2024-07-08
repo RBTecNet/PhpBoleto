@@ -14,7 +14,6 @@
         }
     ],
     "require": {
-        "illuminate/support": "^11.14",
         "larapack/dd": "^1.1",
         "fpdf/fpdf": "^1.86",
         "neitanod/forceutf8": "*",
